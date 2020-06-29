@@ -1,4 +1,4 @@
-# SGD_code_learning
+# Computer Vision
 
-This file is a record of my SDG code learning.  
-Creating time: 2020/3/13  
+This file is a record of my Computer Vision learning.  
+Creating time: 2020/6/29  
