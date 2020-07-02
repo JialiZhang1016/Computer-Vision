@@ -38,8 +38,12 @@
 
 ## 6. MinGW版本不正确
 * vlfeat的安装依然不成功，报错信息显示MinGW版本不正确。  
-* `警告: 您使用的是不受支持的 MinGW 编译器版本。要安装支持的 MinGW 编译器版本，请参阅: 安装MinGW-w64 编译器。必须是6.3版本`。  
 ![image](https://github.com/JialiZhang1016/Computer-Vision/blob/master/images/6.png)  
+* 再次查阅官网，发现必须安装对应版本：  
+  > MATLAB R2015b, R2016a, R2016b, R2017a: MinGW GCC 4.9.2 from TDM  
+  > MATLAB R2017b and R2018a: MinGW GCC 5.3 from mingw-w64.org  
+  > MATLAB R2018b and beyond: MinGW GCC 6.3 from mingw-w64.org  
+
 
 ## 7. 安装GCC 6.3版本的MinGW64
 * 现在才发现我费了很大力气安装的MinGW的GCC是8.1.0的，和官方要求的不配适。但是找到合适的版本**GCC 6.3.0**很难，MinGW64官网给的几个链接要么是6.0版本，要么是6.4版本。  
@@ -49,4 +53,4 @@
 ![image](https://github.com/JialiZhang1016/Computer-Vision/blob/master/images/7.png)  
 
 
-依旧是失败，我没脾气了，准备换python，偶尔想起来再试试吧。
+依旧是失败。没脾气了，准备换python，偶尔想起来再试试吧。
