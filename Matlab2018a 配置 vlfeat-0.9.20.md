@@ -1,4 +1,4 @@
-# Matlab2018a 配置 vlfeat0.9.20
+# Matlab2018a 配置 vlfeat-0.9.20
 
 ## 工具
 - **Matlab2018a** 
