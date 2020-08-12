@@ -1,4 +1,6 @@
-# Summary
+# Image Formation - Geometry
+
+## Summary
 - Pixels not only carry color information, but also carry geometry info 
 - Given 3D scene, a camera model, pixels locations on the image plane is uniquely determined 
 - The reverse problem is not as easy (but deep learning is making good progress on single view depth estimation) 
